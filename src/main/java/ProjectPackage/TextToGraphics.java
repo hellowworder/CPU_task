@@ -8,6 +8,9 @@ import java.awt.RenderingHints;
 import java.awt.image.BufferedImage;
 import java.io.File;
 
+//Класс для генерации картинки из строки
+//строка генерируется классом ThreadMXBeanTest
+
 public class TextToGraphics {
 
     private static File outputFile;
