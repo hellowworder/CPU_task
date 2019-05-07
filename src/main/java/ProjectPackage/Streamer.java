@@ -7,7 +7,7 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 
 //Класс
-//обновляет изображение для кадра MJPEG
+//обновляет изображение 
 //возвращает изображение массивом байтов
 //возвращает размер возвращаемого массива байтов
 public class Streamer {
