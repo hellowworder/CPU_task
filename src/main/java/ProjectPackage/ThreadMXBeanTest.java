@@ -3,6 +3,7 @@ package ProjectPackage;
 import java.lang.management.ManagementFactory;
 import com.sun.management.OperatingSystemMXBean;
 
+//Класс длямониторинга загрузки ЦП
 
 public class ThreadMXBeanTest {
     class UserThread extends Thread {
